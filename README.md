@@ -1,5 +1,5 @@
 # C / C++ Code File Generator
-A simple program to create C++ skeleton code files with empty function definitions, based on existing header files
+A simple program to create C / C++ skeleton code files with empty function definitions, based on existing header files
 
 ## System Requirements
 * .NET Framework 2.0
